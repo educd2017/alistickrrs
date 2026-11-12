@@ -1,3 +1,10 @@
+#navbar-iframe, .navbar {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  max-height: 0 !important;
+  overflow: hidden !important;
+}
 :root {
   --ink: #1b1b1b;
   --navy: #080862;
