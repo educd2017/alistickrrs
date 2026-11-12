@@ -3,9 +3,9 @@
 
   const CONFIG = {
     currency: 'جنيه',
-    whatsappNumber: '201000000000',
-    languageUrl: 'https://sticklyiq.com/en.html',
-    gasWebAppUrl: '',
+    whatsappNumber: '201093767458',
+    languageUrl: '#',
+    gasWebAppUrl: 'https://script.google.com/macros/s/AKfycbziG3WgZdX9QwP8NhveMnFV-1W2fd1ki70mWnCUsneaeMjWFCQhiHbDn4HQDma5uNGe3Q/exec',
     rushFee: 60,
     designFee: 60,
     shippingFee: 60,
